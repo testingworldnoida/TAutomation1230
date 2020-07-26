@@ -27,6 +27,7 @@ public class A {
 	  finally
 	  {
 	  System.out.println("END");
+	  System.out.println("Hello");
 	  }
 	}
 	
